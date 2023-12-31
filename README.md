@@ -19,7 +19,11 @@ AI_Activity est une application Flutter qui permet aux utilisateurs de suivre le
 - Flutter
 - Firebase (Authentification et Firestore)
 - TensorFlow Lite
-
+![profil](https://github.com/Chaima31/ProjetIA/assets/66256999/7b2ed653-74b3-4402-94fc-2ed63275609a)
+![liste](https://github.com/Chaima31/ProjetIA/assets/66256999/22b85e6e-a893-4813-ad44-1c8115cf7fed)
+![login2](https://github.com/Chaima31/ProjetIA/assets/66256999/552755a8-8d0e-43e8-946a-11d2df4b199a)
+![loginFlutter](https://github.com/Chaima31/ProjetIA/assets/66256999/cc628b7c-8550-4603-a614-c3e2800db7ed)
+![details](https://github.com/Chaima31/ProjetIA/assets/66256999/56899076-fa31-4c13-9066-58f0a0fcabf2)
 ## Configuration du Projet
 1. Clonez le projet : `[git clone https://github.com/votre-utilisateur/fittracker.git](https://github.com/Chaima31/ProjetIA.git)`
 2. Installez les dépendances : `flutter pub get`
