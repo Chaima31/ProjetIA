@@ -101,14 +101,11 @@ class _AjoutActiviteState extends State<AjoutActivite> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text("Ajouter une activité"),
-        backgroundColor: Color.fromARGB(255, 1, 29, 52),
-        titleTextStyle: TextStyle(
-          color: const Color.fromARGB(255, 255, 255, 255),
-          fontWeight: FontWeight.bold,
-          fontSize: 28.0,
-        ),
+     appBar: AppBar(
+        title: Text("Ajouter une activité"),
+        backgroundColor: Color.fromARGB(255, 254, 85, 167),
+        centerTitle: true,
+        shadowColor: Color.fromRGBO(247, 245, 245, 0.936),
       ),
       body: SingleChildScrollView(
         child: Padding(
@@ -127,15 +124,9 @@ class _AjoutActiviteState extends State<AjoutActivite> {
                   'Détection d\'objets : $_recognitions',
                   style: TextStyle(fontSize: 16),
                 ),
-              _buildTextField("Libellé", (value) {
+              _buildTextField("Catégorie", (value) {
                 setState(() {
                   categorie = value;
-                });
-              }),
-              const SizedBox(height: 16),
-              _buildTextField("Image URL", (value) {
-                setState(() {
-                  imageUrl = value;
                 });
               }),
               const SizedBox(height: 16),
