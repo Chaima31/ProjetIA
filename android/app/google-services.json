@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448883504279",
+    "project_id": "najali-chaimae-tp-ai2",
+    "storage_bucket": "najali-chaimae-tp-ai2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448883504279:android:6878daf78b784b35d6e5d2",
+        "android_client_info": {
+          "package_name": "com.example.najalichaimaetpai2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO9zRPZ2GddW9MVTBg6c7rXruFwsH2Q6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
